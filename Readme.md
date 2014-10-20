@@ -203,6 +203,79 @@
 ### 八、使用案例的初步類別圖 ###
 ### 九、系統的初步類別圖 ###
 ### 十、使用案例主要成功情節之英文名稱事件對應 ###
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+	<td><p>使用案例：使用者進入介面</p></td>
+	<td><p></p></td>
+</tr>
+<tr>
+	<td><p>1.載入使用者介面<br> 
+		->開啟選擇清單<br>
+		->從資料庫抓取內容<br>
+		->顯示選擇系統<br>
+	</p></br>
+	<td><p>LoadUI()<br>
+		<br>
+		LoadData()
+	</p><br>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+	<td><p>使用案例：使用者使用查詢系統</p></td>
+	<td><p></p></td>
+</tr>
+<tr>
+	<td><p>1.根據地區進入資料庫搜索對應資料<br>
+		2.載入電影清單。<br>
+		3.根據搜尋條件顯示對應電影院資料<br>
+ 		4.選擇電影院的檔次
+	</p></br>
+	<td><p>Select()<br>
+		AreaList()<br>
+		MoiveList()<br>
+		TheaterList()<br>
+		TimeList()<br>
+	</p><br>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+	<td><p>使用案例：使用者選擇欲購票之戲院</p></td>
+	<td><p></p></td>
+</tr>
+<tr>
+	<td><p>1.載入該戲院特定電影之場次表<br>
+		2.載入對應之場次座位狀態表<br>
+		3.呼叫劃位系統，給予位置即時資訊<br>
+		4.根據使用者選擇之票種進行折扣<br>
+		5.統計劃位結果，將結果輸出。<br>
+	</p></br>
+	<td><p>SittingSystem()<br>
+		Count()<br>
+		PriceCost()<br>
+	</p><br>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+	<td><p>使用案例：使用者訂票完成，取得購票資訊</p></td>
+	<td><p></p></td>
+</tr>
+<tr>
+	<td><p>1.紀錄訂購人之資料以便現場核對<br>
+		<br><br><br><br>
+		2.儲存本交易資訊備查<br>
+		<br>
+	</p></br>
+	<td><p>ViewInfo()<br>
+		CustomerInfo()<br>
+		<br>
+		<br>
+		Tradeinfo()<br>
+	</p><br>
+</tr>
+</table>
 ### 十一、每個名稱事件之合約 ###
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
