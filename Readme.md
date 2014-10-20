@@ -215,7 +215,7 @@
 		->從資料庫抓取內容<br>
 		->顯示選擇系統<br>
 	</p></br>
-	<td><p>LoadUI()<br>
+	<td><p><br>LoadUI()<br>
 		<br>
 		LoadData()
 	</p><br>
@@ -233,7 +233,7 @@
 		3.根據搜尋條件顯示對應電影院資料<br>
 		4.選擇電影院的檔次
 	</p></br>
-	<td><p>Select()<br>
+	<td><p><br>Select()<br>
 		AreaList()<br>
 		MoiveList()<br>
 		TheaterList()<br>
