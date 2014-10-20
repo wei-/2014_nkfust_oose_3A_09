@@ -79,6 +79,14 @@
 **購票完成作業**
 <p align="center"><img src="http://i.imgur.com/ekndrJP.png"></p>
 ### 六、個別使用案例活動圖 ###
+**系統基本作業介面**
+<p align="center"><img src="http://i.imgur.com/HDzw7HW.png"></p>
+**電影查詢作業**
+<p align="center"><img src="http://i.imgur.com/EJEEAFl.png"></p>
+**購票劃位作業**
+<p align="center"><img src="http://i.imgur.com/xvQ0QmX.png"></p>
+**購票完成作業**
+<p align="center"><img src="http://i.imgur.com/8cXbpze.png"></p>
 ### 七、名詞與概念類別列舉表 ###
 **系統基本作業介面**
 <table border="0" cellpadding="0" cellspacing="0">
