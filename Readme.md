@@ -202,3 +202,62 @@
 </table>
 ### 八、使用案例的初步類別圖 ###
 ### 九、系統的初步類別圖 ###
+### 十、使用案例主要成功情節之英文名稱事件對應 ###
+### 十一、每個名稱事件之合約 ###
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+	<td><p>合約1:使用者進入介面(LoadUI)</p></td>
+</tr>
+<tr>
+	<td><p>
+	操作:LoadUI() 初始化<br>
+	交互參照:使用者進入介面<br>
+	前置條件:None<br>
+	後置條件:
+	檢查表單系統，將選擇器建立完成，載入資料庫中的選單資料後傳入AreaList()、MoiveList()、TimeList()、TheaterList()當中，根據使用者的選擇進行下一步。
+	</p></tr>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+	<td><p>合約2:使用者使用查詢系統</p></td>
+</tr>
+<tr>
+	<td><p>
+	操作:Select()<br>
+	交互參照:使用查詢系統<br>
+	前置條件:LoadUI完成、Select()接收到LoadData()載入的資料。<br>
+	後置條件:
+	使用者選擇AreaList()之內容，產生對應之MoiveList()，使用者接著選擇MoiveList()，系統自動產生對應之TheaterList()，選定TheaterList()之後跳出當日所有班次之時刻表TimeList()，並將檔次資料傳入SittingSystem()，讀取座位表
+	</p></tr>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+	<td><p>合約3:使用者選擇欲購票之戲院</p></td>
+</tr>
+<tr>
+	<td><p>
+	操作:SittingSystem()<br>
+	交互參照:劃位<br>
+	前置條件:TimeList()檔次資料傳入SittingSystem()後啟動。<br>
+	後置條件:
+	SittingSystem()讀取該選定檔次現況，提供空座位選擇，使用者點選位置之後呼叫Count()取得選擇狀態與數量，在確認票種折扣PriceCost()計算後進入完成階段，呼叫ViewInfo()。
+	</p></tr>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+	<td><p>合約4:使用者訂票完成，取得購票資訊</p></td>
+</tr>
+<tr>
+	<td><p>
+	操作:ViewInfo()<br>
+	交互參照:取得購票資訊<br>
+	前置條件:SittingSystem()結束，已取得購票數量與總價格資訊。<br>
+	後置條件:
+	列出交易資訊，啟動CustomerInfo()紀錄購買者基本資訊並回傳至資料庫，在完成後呼叫Tradeinfo()顯示最後交易內容，完成交易。
+	</p></tr>
+</tr>
+</table>
+### 十二、使用案例之系統循序圖 ###
