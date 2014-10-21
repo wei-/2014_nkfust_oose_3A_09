@@ -1,5 +1,4 @@
 # 3A 專題 第九組 #
-<<<<<<< HEAD
 ## 成員 ##
      0124051 陳緯綸 
      0124053 謝帛璋 
@@ -338,3 +337,11 @@
 </tr>
 </table>
 ### 十二、使用案例之系統循序圖 ###
+**1.使用者進入介面**
+<p align="center"><img src="http://i.imgur.com/tQ47NEt.png"></p>
+**2.使用者使用查詢系統**
+<p align="center"><img src="http://i.imgur.com/wJG2ZZ6.png"></p>
+**3.使用者選擇欲購票之戲院**
+<p align="center"><img src="http://i.imgur.com/hZvsdOT.png"></p>
+**4.使用者訂票完成，取得購票資訊**
+<p align="center"><img src="http://i.imgur.com/ssMzfyy.png"></p>
