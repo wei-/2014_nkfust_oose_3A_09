@@ -200,7 +200,16 @@
 </tr>
 </table>
 ### 八、使用案例的初步類別圖 ###
+**系統基本作業介面**
+<p align="center"><img src="http://i.imgur.com/h6pPuy9.jpg"></p>
+**電影查詢作業**
+<p align="center"><img src="http://i.imgur.com/zuN6l9C.jpg"></p>
+**購票劃位作業**
+<p align="center"><img src="http://i.imgur.com/YA9tThU.jpg"></p>
+**購票完成作業**
+<p align="center"><img src="http://i.imgur.com/7lMREzc.jpg"></p>
 ### 九、系統的初步類別圖 ###
+<p align="center"><img src="http://i.imgur.com/RdnHbmS.jpg"></p>
 ### 十、使用案例主要成功情節之英文名稱事件對應 ###
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
