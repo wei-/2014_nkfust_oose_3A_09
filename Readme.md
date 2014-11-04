@@ -240,17 +240,17 @@
 </table>
 ### 八、使用案例的初步類別圖 ###
 **基本介面作業**
-<p align="center"><img src=""></p>
+<p align="center"><img src="http://i.imgur.com/36F3APH.png"></p>
 **以名稱查詢作業**
-<p align="center"><img src=""></p>
+<p align="center"><img src="http://i.imgur.com/IzNyAkn.png"></p>
 **地區查詢做業**
-<p align="center"><img src=""></p>
+<p align="center"><img src="http://i.imgur.com/IzNyAkn.png"></p>
 **模擬劃位作業**
-<p align="center"><img src=""></p>
+<p align="center"><img src="http://i.imgur.com/Wy0aHKa.png"></p>
 **完成作業**
-<p align="center"><img src=""></p>
+<p align="center"><img src="http://i.imgur.com/3KvJhHh.png"></p>
 ### 九、系統的初步類別圖 ###
-<p align="center"><img src=""></p>
+<p align="center"><img src="http://i.imgur.com/Da35eqS.jpg"></p>
 ### 十、使用案例主要成功情節之英文名稱事件對應 ###
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
@@ -411,11 +411,13 @@
 </tr>
 </table>
 ### 十二、使用案例之系統循序圖 ###
-**1.使用者進入介面**
-<p align="center"><img src=""></p>
-**2.使用者使用查詢系統**
-<p align="center"><img src=""></p>
-**3.使用者選擇欲購票之戲院**
-<p align="center"><img src=""></p>
-**4.使用者訂票完成，取得購票資訊**
-<p align="center"><img src=""></p>
+**基本介面作業**
+<p align="center"><img src="http://i.imgur.com/FoVnw8t.png"></p>
+**以名稱查詢作業**
+<p align="center"><img src="http://i.imgur.com/t4ReJ0v.png"></p>
+**以地區查詢作業**
+<p align="center"><img src="http://i.imgur.com/nOJolfS.png"></p>
+**模擬劃位作業**
+<p align="center"><img src="http://i.imgur.com/Q49AuOq.png"></p>
+**完成作業**
+<p align="center"><img src="http://i.imgur.com/Zks6SLQ.png"></p>
