@@ -6,76 +6,79 @@
      0124071 甘孟叡 
      0124087 蘇垣愷 
 ## 專題題目 ##
-     電影訂位系統 
+     電影模擬劃位系統 
 
 
 ### 一、系統介紹 ###
-
-	設定相關系統，在不同的區域，選擇較相鄰的影廳，依照顧客個人喜好，
-	選出自己看電影最舒服的位置。
-	最後付費方式選擇顧客方便的來進行。
+設定相關系統，讓使用者在不同的區域可以選擇裡自己位置最近的影廳，然後依照使用者個人喜好，查詢自己想看的電影時刻，該場電影的剩餘位置，方便使用者選擇應該鎖定哪家影廳哪個場次以及哪裡有舒適的座位。
+<p>
+本系統僅提供查詢影廳的電影場次以及剩餘座位的資訊，並無付費及購票功能，但此系統能夠連結到他家的訂票系統，讓使用者能夠更便捷更快速的完成整個選位劃位購票流程。
 
 ### 二、利害關係人與目標表 ###
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
-      <td><p>利害關係人（參與者）</p></td>
-      <td><p>目標</p></td>
+    <td><p>利害關係人（參與者）</p></td>
+    <td><p>目標</p></td>
 </tr>
 <tr>
-      <td><p>顧客</p></td>
-      <td><p>購票劃位</p>
-</tr>
-<tr>
-      <td><p>電影院代表</p></td>
-      <td><p>取得劃位資訊與購票資料</p>
+    <td><p>顧客</p></td>
+    <td><p>1.進入程式主頁<br>2.選擇想要看的電影，獲得劇院資料<br>3.查詢不特定電影與相關資訊<br>4.選擇特定檔次之座位以供購票參考<br>5.進入電影院系統之購票頁面</p>
 </tr>
 </table>
 <br>
 ### 三、事件與使用案例表 ###
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
-      <td><p>事件名稱</p></td>
-      <td><p>使用案例名稱</p></td>
+    <td><p>事件名稱</p></td>
+    <td><p>使用案例名稱</p></td>
 </tr>
 <tr>
-      <td><p>1.使用者進入介面</p></td>
-      <td><p>1.系統基本作業介面</p>
+    <td><p>1.使用者進入介面</p></td>
+    <td><p>1.基本介面作業</p>
 </tr>
 <tr>
-      <td><p>2.使用者使用查詢系統</p></td>
-      <td><p>2.電影查詢作業</p>
+    <td><p>2.使用者使用查詢系統(以電影名稱搜尋)</p></td>
+    <td><p>2.以名稱查詢查詢作業</p>
 </tr>
 <tr>
-      <td><p>3.使用者選擇欲購票之戲院</p></td>
-      <td><p>3.購票劃位作業</p>
+    <td><p>3.使用者使用查詢系統(以地區搜尋)</p></td>
+    <td><p>3.以地區查詢作業</p>
 </tr>
 <tr>
-      <td><p>4.使用者訂票完成，取得購票資訊</p></td>
-      <td><p>4.購票完成作業</p>
+    <td><p>4.使用者選擇特定電影之場次表，進行模擬劃位</p></td>
+    <td><p>4.模擬劃位作業</p>
+</tr>
+<tr>
+    <td><p>5.使用者完成劃位規劃，將頁面導入至對應電影院售票系統</p></td>
+    <td><p>5.完成作業</p>
 </tr>
 </table>
 ### 四、使用案例圖 ###
-<p align="center"><img src="http://i.imgur.com/dMsAhRS.png?1"></p>
+<p align="center"><img src="http://i.imgur.com/qtU7sjF.png"></p>
 ### 五、個別使用案例描述 ###
-**系統基本作業介面**
-<p align="center"><img src="http://i.imgur.com/iRkUQnr.png"></p>
-**電影查詢作業**
-<p align="center"><img src="http://i.imgur.com/GiYs42v.png"></p>
-**購票劃位作業**
-<p align="center"><img src="http://i.imgur.com/iazFX0v.png"></p>
-**購票完成作業**
-<p align="center"><img src="http://i.imgur.com/ekndrJP.png"></p>
+**基本介面作業**
+<p align="center"><img src="http://i.imgur.com/Zu1G1BV.png"></p>
+**以名稱查詢作業**
+<p align="center"><img src="http://i.imgur.com/fIo3j0L.png"></p>
+**以地區查詢作業**
+<p align="center"><img src="http://i.imgur.com/uaR0jzJ.png"></p>
+**模擬劃位作業**
+<p align="center"><img src="http://i.imgur.com/bfj4RiQ.png"></p>
+**完成作業**
+<p align="center"><img src="http://i.imgur.com/2J8jLN7.png"></p>
 ### 六、個別使用案例活動圖 ###
-**系統基本作業介面**
-<p align="center"><img src="http://i.imgur.com/HDzw7HW.png"></p>
-**電影查詢作業**
-<p align="center"><img src="http://i.imgur.com/EJEEAFl.png"></p>
-**購票劃位作業**
-<p align="center"><img src="http://i.imgur.com/xvQ0QmX.png"></p>
-**購票完成作業**
-<p align="center"><img src="http://i.imgur.com/8cXbpze.png"></p>
+**基本介面作業**
+<p align="center"><img src="http://i.imgur.com/fESYEEj.png"></p>
+**以名稱查詢作業**
+<p align="center"><img src="http://i.imgur.com/biDiUTW.png"></p>
+**以地區查詢作業**
+<p align="center"><img src="http://i.imgur.com/8o2ZDf0.png"></p>
+**模擬劃位作業**
+<p align="center"><img src="http://i.imgur.com/vWYifJF.png"></p>
+**完成作業**
+<p align="center"><img src="http://i.imgur.com/nUK3JkM.png"></p>
 ### 七、名詞與概念類別列舉表 ###
-**系統基本作業介面**
+**基本介面作業**
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
       <td><p>名詞</p></td>
@@ -83,17 +86,17 @@
       <td><p>結果</p></td>
 </tr>
 <tr>
-      <td><p>顧客</p></td>
-      <td><p>購票者必然是一個主要的處理個體</p></td>
+      <td><p>使用者</p></td>
+      <td><p>整個程式的使用者</p></td>
 	  <td><p>是</p></td>
 </tr>
 <tr>
-      <td><p>顧客基本資料</p></td>
-      <td><p>紀錄顧客的基本資料</p></td>
+      <td><p>劃位系統</p></td>
+      <td><p>提供整個劃位與導向功能的主體</p></td>
 	  <td><p>是</p></td>
 </tr>
 </table>
-**電影查詢作業**
+**以名稱查詢作業**
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
       <td><p>名詞</p></td>
@@ -101,23 +104,28 @@
       <td><p>結果</p></td>
 </tr>
 <tr>
-      <td><p>顧客</p></td>
-      <td><p>購票者必然是一個主要的處理個體</p></td>
+      <td><p>使用者</p></td>
+      <td><p>整個程式的使用者</p></td>
 	  <td><p>是</p></td>
 </tr>
 <tr>
+      <td><p>日期查詢</p></td>
+      <td><p>查詢系統的其中一個表單</p></td>
+	  <td><p>否</p></td>
+</tr>
+<tr>
       <td><p>地區列表</p></td>
-      <td><p>僅作為一個選擇的表單作用</p></td>
+      <td><p>查詢系統的其中一個表單</p></td>
 	  <td><p>否</p></td>
 </tr>
 <tr>
       <td><p>電影清單</p></td>
-      <td><p>僅作為一個選擇的表單作用</p></td>
+      <td><p>查詢系統的其中一個表單</p></td>
 	  <td><p>否</p></td>
 </tr>
 <tr>
       <td><p>時刻表</p></td>
-      <td><p>僅作為一個選擇的表單作用</p></td>
+      <td><p>查詢系統的其中一個資訊</p></td>
 	  <td><p>否</p></td>
 </tr>
 <tr>
@@ -125,8 +133,18 @@
       <td><p>僅作為一個選擇的表單作用</p></td>
 	  <td><p>否</p></td>
 </tr>
+<tr>
+      <td><p>場次表</p></td>
+      <td><p>僅作為一個選擇的表單作用</p></td>
+	  <td><p>否</p></td>
+</tr>
+<tr>
+      <td><p>劃位系統</p></td>
+      <td><p>提供整個劃位與導向功能的主體</p></td>
+	  <td><p>是</p></td>
+</tr>
 </table>
-**購票劃位作業**
+**以地區查詢作業**
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
       <td><p>名詞</p></td>
@@ -134,13 +152,61 @@
       <td><p>結果</p></td>
 </tr>
 <tr>
-      <td><p>顧客</p></td>
-      <td><p>購票者必然是一個主要的處理個體</p></td>
+      <td><p>使用者</p></td>
+      <td><p>整個程式的使用者</p></td>
+	  <td><p>是</p></td>
+</tr>
+<tr>
+      <td><p>日期查詢</p></td>
+      <td><p>查詢系統的其中一個表單</p></td>
+	  <td><p>否</p></td>
+</tr>
+<tr>
+      <td><p>地區列表</p></td>
+      <td><p>查詢系統的其中一個表單</p></td>
+	  <td><p>否</p></td>
+</tr>
+<tr>
+      <td><p>電影清單</p></td>
+      <td><p>查詢系統的其中一個表單</p></td>
+	  <td><p>否</p></td>
+</tr>
+<tr>
+      <td><p>時刻表</p></td>
+      <td><p>查詢系統的其中一個資訊</p></td>
+	  <td><p>否</p></td>
+</tr>
+<tr>
+      <td><p>戲院列表</p></td>
+      <td><p>僅作為一個選擇的表單作用</p></td>
+	  <td><p>否</p></td>
+</tr>
+<tr>
+      <td><p>場次表</p></td>
+      <td><p>僅作為一個選擇的表單作用</p></td>
+	  <td><p>否</p></td>
+</tr>
+<tr>
+      <td><p>劃位系統</p></td>
+      <td><p>提供整個劃位與導向功能的主體</p></td>
+	  <td><p>是</p></td>
+</tr>
+</table>
+**模擬劃位作業**
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+      <td><p>名詞</p></td>
+      <td><p>原因</p></td>
+      <td><p>結果</p></td>
+</tr>
+<tr>
+      <td><p>使用者</p></td>
+      <td><p>整個程式的使用者</p></td>
 	  <td><p>是</p></td>
 </tr>
 <tr>
       <td><p>劃位系統</p></td>
-      <td><p>提供整個劃位與訂票的重要系統</p></td>
+      <td><p>提供整個劃位與導向功能的主體</p></td>
 	  <td><p>是</p></td>
 </tr>
 <tr>
@@ -148,8 +214,13 @@
       <td><p>僅作為一個選擇的表單作用</p></td>
 	  <td><p>否</p></td>
 </tr>
+<tr>
+      <td><p>時刻表</p></td>
+      <td><p>查詢系統的其中一個資訊</p></td>
+	  <td><p>否</p></td>
+</tr>
 </table>
-**購票完成作業**
+**完成作業**
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
       <td><p>名詞</p></td>
@@ -157,129 +228,129 @@
       <td><p>結果</p></td>
 </tr>
 <tr>
-      <td><p>顧客</p></td>
-      <td><p>購票者必然是一個主要的處理個體</p></td>
-	  <td><p>是</p></td>
-</tr>
-<tr>
-      <td><p>顧客基本資料</p></td>
-      <td><p>紀錄顧客的基本資料</p></td>
+      <td><p>使用者</p></td>
+      <td><p>整個程式的使用者</p></td>
 	  <td><p>是</p></td>
 </tr>
 <tr>
       <td><p>劃位系統</p></td>
-      <td><p>提供整個劃位與訂票的重要系統</p></td>
-	  <td><p>是</p></td>
-</tr>
-<tr>
-      <td><p>訂單</p></td>
-      <td><p>紀錄訂購資訊</p></td>
-	  <td><p>是</p></td>
-</tr>
-<tr>
-      <td><p>訂單編號</p></td>
-      <td><p>訂單的屬性</p></td>
-	  <td><p>否</p></td>
-</tr>
-<tr>
-      <td><p>交易紀錄</p></td>
-      <td><p>紀錄每個訂購的資訊</p></td>
+      <td><p>提供整個劃位與導向功能的主體</p></td>
 	  <td><p>是</p></td>
 </tr>
 </table>
 ### 八、使用案例的初步類別圖 ###
-**系統基本作業介面**
-<p align="center"><img src="http://i.imgur.com/h6pPuy9.jpg"></p>
-**電影查詢作業**
-<p align="center"><img src="http://i.imgur.com/zuN6l9C.jpg"></p>
-**購票劃位作業**
-<p align="center"><img src="http://i.imgur.com/YA9tThU.jpg"></p>
-**購票完成作業**
-<p align="center"><img src="http://i.imgur.com/7lMREzc.jpg"></p>
+**基本介面作業**
+<p align="center"><img src=""></p>
+**以名稱查詢作業**
+<p align="center"><img src=""></p>
+**地區查詢做業**
+<p align="center"><img src=""></p>
+**模擬劃位作業**
+<p align="center"><img src=""></p>
+**完成作業**
+<p align="center"><img src=""></p>
 ### 九、系統的初步類別圖 ###
-<p align="center"><img src="http://i.imgur.com/RdnHbmS.jpg"></p>
+<p align="center"><img src=""></p>
 ### 十、使用案例主要成功情節之英文名稱事件對應 ###
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
-	<td><p>使用案例：使用者進入介面</p></td>
+	<td><p>使用案例：基本介面作業</p></td>
 	<td><p></p></td>
 </tr>
 <tr>
 	<td><p>主要成功情節:<br>
-		1.載入使用者介面<br> 
+		1.載入使用者介面<br>
+		->載入搜尋引擎<br>
+		->顯示當期電影總覽<br>
 		->開啟選擇清單<br>
-		->從資料庫抓取內容<br>
 		->顯示選擇系統<br>
 	</p></br>
-	<td><p><br>LoadUI()<br>
-		<br>
-		LoadData()
+	<td><p><br>
+		LoadUI()<br>
+
+		viewMovie()<br>
+		LoadData()<br>
+		Selecttool()<br>
+
 	</p><br>
 </tr>
 </table>
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
-	<td><p>使用案例：使用者使用查詢系統</p></td>
+	<td><p>使用案例：以名稱查詢作業</p></td>
 	<td><p></p></td>
 </tr>
 <tr>
 	<td><p>主要成功情節:<br>
-		1.根據地區進入資料庫搜索對應資料<br>
-		2.載入電影清單。<br>
-		3.根據搜尋條件顯示對應電影院資料<br>
-		4.選擇電影院的檔次
+		1.日期查詢(七天內)，給予”今日”、”指定日期”、”本周”三種功能。<br>
+		2.根據電影名稱進入資料庫搜索對應資料<br>
+		3.載入對應電影有上映之地區。<br>
+		4.載入各地區有上映的電影院<br>
+		5.列出查詢結果與時刻表及場次資訊。<br>
 	</p></br>
-	<td><p><br>Select()<br>
+	<td><p><br>SelectDate()<br><br>
 		AreaList()<br>
-		MoiveList()<br>
 		TheaterList()<br>
-		TimeList()<br>
+		FilmSelect()<br><br>
 	</p><br>
 </tr>
 </table>
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
-	<td><p>使用案例：使用者選擇欲購票之戲院</p></td>
+	<td><p>使用案例：以地區查詢作業</p></td>
 	<td><p></p></td>
 </tr>
 <tr>
 	<td><p>主要成功情節:<br>
-		1.載入該戲院特定電影之場次表<br>
-		2.載入對應之場次座位狀態表<br>
-		3.呼叫劃位系統，給予位置即時資訊<br>
-		4.根據使用者選擇之票種進行折扣<br>
-		5.統計劃位結果，將結果輸出。<br>
+		1.日期查詢(七天內)，給予”今日”、”指定日期”、”本周”三種功能。<br>
+		2.根據地區進入資料庫搜索對應資料。<br>
+		3.載入對應電影院清單。<br>
+		4.列出所有符合條件之查詢結果與對應時刻表及場次資訊。<br>
+	</p></br>
+	<td><p>SelectDate()<br><br>
+		AreaList()<br>
+		TheaterList()<br>
+		FilmSelect()<br>
+	</p><br>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+	<td><p>使用案例：模擬劃位作業</p></td>
+	<td><p></p></td>
+</tr>
+<tr>
+	<td><p>主要成功情節:<br>
+		1.載入對應之場次座位狀態表。<br>
+		2.呼叫劃位系統，給予位置即時資訊，供使用者選擇。<br>
+		3.統計模擬劃位結果，將結果儲存至確認頁面<br>
 	</p></br>
 	<td><p>SittingSystem()<br>
-		Count()<br>
-		PriceCost()<br>
+		SetCount()<br>
+		OutPut()<br>
 	</p><br>
 </tr>
 </table>
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
-	<td><p>使用案例：使用者訂票完成，取得購票資訊</p></td>
+	<td><p>使用案例：完成作業</p></td>
 	<td><p></p></td>
 </tr>
 <tr>
 	<td><p>主要成功情節:<br>
-		1.紀錄訂購人之資料以便現場核對<br>
-		<br><br><br><br>
-		2.儲存本交易資訊備查<br>
-		<br>
+		自動顯示選擇之交易資訊。<br>
+		1.將訂位資料轉至電影院，將使用者轉入電影院訂票系統。
+
 	</p></br>
 	<td><p>ViewInfo()<br>
-		CustomerInfo()<br>
-		<br>
-		<br>
-		Tradeinfo()<br>
+		SentToTheater()<br>
 	</p><br>
 </tr>
 </table>
 ### 十一、每個名稱事件之合約 ###
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
-	<td><p>合約1:使用者進入介面(LoadUI)</p></td>
+	<td><p>LoadUI()</p></td>
 </tr>
 <tr>
 	<td><p>
@@ -287,58 +358,64 @@
 	交互參照:使用者進入介面<br>
 	前置條件:None<br>
 	後置條件:
-	檢查表單系統，將選擇器建立完成，載入資料庫中的選單資料後傳入AreaList()、MoiveList()、TimeList()、TheaterList()當中，根據使用者的選擇進行下一步。
+	檢查表單系統，將選擇器建立完成，根據使用者的選擇進行下一步。
+
 	</p></tr>
 </tr>
 </table>
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
-	<td><p>合約2:使用者使用查詢系統</p></td>
+	<td><p>Selecttool()</p></td>
 </tr>
 <tr>
 	<td><p>
-	操作:Select()<br>
+	操作:Selecttool()<br>
 	交互參照:使用查詢系統<br>
-	前置條件:LoadUI完成、Select()接收到LoadData()載入的資料。<br>
+	前置條件:LoadUI完成、選擇器接收到LoadData()載入的資料。<br>
 	後置條件:
-	使用者選擇AreaList()之內容，產生對應之MoiveList()，使用者接著選擇MoiveList()，系統自動產生對應之TheaterList()，選定TheaterList()之後跳出當日所有班次之時刻表TimeList()，並將檔次資料傳入SittingSystem()，讀取座位表
+	使用者選定查詢條件如日期-SelectDate()、地區-AreaList()後，列出符合條件之電影院清單-TheaterList()，在選擇並確認查詢之後，系統將提供時刻表及產生對應之場次-FilmSelect()供使用者選擇，隨後將資料傳向SittingSystem()。
+
 	</p></tr>
 </tr>
 </table>
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
-	<td><p>合約3:使用者選擇欲購票之戲院</p></td>
+	<td><p>SittingSystem()</p></td>
 </tr>
 <tr>
 	<td><p>
 	操作:SittingSystem()<br>
-	交互參照:劃位<br>
-	前置條件:TimeList()檔次資料傳入SittingSystem()後啟動。<br>
+	交互參照:模擬劃位<br>
+	前置條件:FilmSelect()資料傳入SittingSystem()後啟動。<br>
 	後置條件:
-	SittingSystem()讀取該選定檔次現況，提供空座位選擇，使用者點選位置之後呼叫Count()取得選擇狀態與數量，在確認票種折扣PriceCost()計算後進入完成階段，呼叫ViewInfo()。
+	SittingSystem()讀取該選定場次訂位現況，提供圖形化介面，讓使用者可以看到訂位狀況並提供空座位選擇。<br>
+
+	當使用者點選位置，使用SetCount()計算位置資訊與選擇的數量，並將訂位資料儲存後導向下個頁面，啟動ViewInfo()。
+
 	</p></tr>
 </tr>
 </table>
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
-	<td><p>合約4:使用者訂票完成，取得購票資訊</p></td>
+	<td><p>ViewInfo()</p></td>
 </tr>
 <tr>
 	<td><p>
 	操作:ViewInfo()<br>
 	交互參照:取得購票資訊<br>
-	前置條件:SittingSystem()結束，已取得購票數量與總價格資訊。<br>
+	前置條件:SittingSystem()結束，已取得訂位資訊。<br>
 	後置條件:
-	列出交易資訊，啟動CustomerInfo()紀錄購買者基本資訊並回傳至資料庫，在完成後呼叫Tradeinfo()顯示最後交易內容，完成交易。
+	列出使用者所選擇的座位資訊，並使用SentToTheater()將資料與使用者導向電影院訂票系統，完成引導工作後結束本系統。
+
 	</p></tr>
 </tr>
 </table>
 ### 十二、使用案例之系統循序圖 ###
 **1.使用者進入介面**
-<p align="center"><img src="http://i.imgur.com/tQ47NEt.png"></p>
+<p align="center"><img src=""></p>
 **2.使用者使用查詢系統**
-<p align="center"><img src="http://i.imgur.com/wJG2ZZ6.png"></p>
+<p align="center"><img src=""></p>
 **3.使用者選擇欲購票之戲院**
-<p align="center"><img src="http://i.imgur.com/hZvsdOT.png"></p>
+<p align="center"><img src=""></p>
 **4.使用者訂票完成，取得購票資訊**
-<p align="center"><img src="http://i.imgur.com/ssMzfyy.png"></p>
+<p align="center"><img src=""></p>
