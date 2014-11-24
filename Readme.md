@@ -54,7 +54,7 @@
 </tr>
 </table>
 ### 四、使用案例圖 ###
-<p align="center"><img src="http://i.imgur.com/qtU7sjF.png"></p>
+<p align="center"><img src="http://i.imgur.com/En9QZ0C.png"></p>
 ### 五、個別使用案例描述 ###
 **基本介面作業**
 <p align="center"><img src="http://i.imgur.com/Zu1G1BV.png"></p>
@@ -66,6 +66,8 @@
 <p align="center"><img src="http://i.imgur.com/bfj4RiQ.png"></p>
 **完成作業**
 <p align="center"><img src="http://i.imgur.com/2J8jLN7.png"></p>
+**管理後台**
+<p align="center"><img src="http://i.imgur.com/zCno1Jc.png"></p>
 ### 六、個別使用案例活動圖 ###
 **基本介面作業**
 <p align="center"><img src="http://i.imgur.com/fESYEEj.png"></p>
@@ -77,6 +79,8 @@
 <p align="center"><img src="http://i.imgur.com/vWYifJF.png"></p>
 **完成作業**
 <p align="center"><img src="http://i.imgur.com/nUK3JkM.png"></p>
+**管理後台**
+<p align="center"><img src="http://i.imgur.com/XijNyTa.png"></p>
 ### 七、名詞與概念類別列舉表 ###
 **基本介面作業**
 <table border="0" cellpadding="0" cellspacing="0">
@@ -238,6 +242,39 @@
 	  <td><p>是</p></td>
 </tr>
 </table>
+**管理後台**
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+      <td><p>名詞</p></td>
+      <td><p>原因</p></td>
+      <td><p>結果</p></td>
+</tr>
+<tr>
+      <td><p>地區列表</p></td>
+      <td><p>查詢系統的其中一個表單</p></td>
+	  <td><p>否</p></td>
+</tr>
+<tr>
+      <td><p>電影清單</p></td>
+      <td><p>查詢系統的其中一個表單</p></td>
+	  <td><p>否</p></td>
+</tr>
+<tr>
+      <td><p>時刻表</p></td>
+      <td><p>查詢系統的其中一個資訊</p></td>
+	  <td><p>否</p></td>
+</tr>
+<tr>
+      <td><p>戲院列表</p></td>
+      <td><p>僅作為一個選擇的表單作用</p></td>
+	  <td><p>否</p></td>
+</tr>
+<tr>
+      <td><p>場次表</p></td>
+      <td><p>僅作為一個選擇的表單作用</p></td>
+	  <td><p>否</p></td>
+</tr>
+</table>
 ### 八、使用案例的初步類別圖 ###
 **基本介面作業**
 <p align="center"><img src="http://i.imgur.com/36F3APH.png"></p>
@@ -248,6 +285,8 @@
 **模擬劃位作業**
 <p align="center"><img src="http://i.imgur.com/Wy0aHKa.png"></p>
 **完成作業**
+<p align="center"><img src="http://i.imgur.com/3KvJhHh.png"></p>
+**管理後台**
 <p align="center"><img src="http://i.imgur.com/3KvJhHh.png"></p>
 ### 九、系統的初步類別圖 ###
 <p align="center"><img src="http://i.imgur.com/Da35eqS.jpg"></p>
@@ -347,6 +386,25 @@
 	</p><br>
 </tr>
 </table>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+	<td><p>使用案例：管理後台</p></td>
+	<td><p></p></td>
+</tr>
+<tr>
+	<td><p>主要成功情節:<br>
+		1.從程式後台系統登入進行操作。<br>
+		2.呼叫編輯工具介面<br>
+		3.更新電影資訊，更新電影介紹內容、基本資訊、主頁圖片等。
+	</p></br>
+	<td><p>ViewInfo()<br>
+		Account(user,password)<br>
+		MaUI()<br>
+		EditUI()<br>
+		Update(information,context,image,)
+	</p><br>
+</tr>
+</table>
 ### 十一、每個名稱事件之合約 ###
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
@@ -421,3 +479,18 @@
 <p align="center"><img src="http://i.imgur.com/Q49AuOq.png"></p>
 **完成作業**
 <p align="center"><img src="http://i.imgur.com/Zks6SLQ.png"></p>
+**管理後台**
+<p align="center"><img src="http://i.imgur.com/SK4xtg2.png"></p>
+### 十三、使用案例之系統強韌圖 ###
+**基本介面作業**
+<p align="center"><img src="http://i.imgur.com/UK4zyeZ.png"></p>
+**以名稱查詢作業**
+<p align="center"><img src="http://i.imgur.com/qlvUBXE.png"></p>
+**以地區查詢作業**
+<p align="center"><img src="http://i.imgur.com/qlvUBXE.png"></p>
+**模擬劃位作業**
+<p align="center"><img src="http://i.imgur.com/Jo52SUM.png"></p>
+**完成作業**
+<p align="center"><img src="http://i.imgur.com/Jyrd6jl.png"></p>
+**管理後台**
+<p align="center"><img src="http://i.imgur.com/HKTRWZq.png"></p>
