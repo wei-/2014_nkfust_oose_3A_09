@@ -494,3 +494,5 @@
 <p align="center"><img src="http://i.imgur.com/Jyrd6jl.png"></p>
 **管理後台**
 <p align="center"><img src="http://i.imgur.com/HKTRWZq.png"></p>
+### 十四、強韌圖 ###
+<p align="center"><img src="http://i.imgur.com/bqI8tP8.png"></p>
