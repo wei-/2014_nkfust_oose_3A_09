@@ -496,3 +496,5 @@
 <p align="center"><img src="http://i.imgur.com/v0vLwxC.png"></p>
 ### 十四、強韌圖 ###
 <p align="center"><img src="http://i.imgur.com/pDjj7NT.png"></p>
+###E-R MODEL###
+<p align="center"><img src="http://i.imgur.com/mnGYlw3.png"></p>
