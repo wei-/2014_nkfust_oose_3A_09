@@ -497,6 +497,7 @@
 **完成作業**
 <p align="center"><img src="http://i.imgur.com/Jyrd6jl.png"></p>
 **管理後台**
+<<<<<<< HEAD
 <p align="center"><img src="http://i.imgur.com/HKTRWZq.png"></p>
 ### 十四、強韌圖 (0124071 甘孟叡)
 <p align="center"><img src="http://i.imgur.com/bqI8tP8.png"></p>
@@ -505,3 +506,10 @@
 <p align="center"><img src="http://i.imgur.com/GXGaWv2.pnggyeP8sO.png"></p>
 ### 十六、循序圖 (0124057 黃韋翔)
 <p align="center"><img src="http://i.imgur.com/6klC4Sv.png"></p>
+=======
+<p align="center"><img src="http://i.imgur.com/v0vLwxC.png"></p>
+### 十四、強韌圖 ###
+<p align="center"><img src="http://i.imgur.com/pDjj7NT.png"></p>
+###E-R MODEL###
+<p align="center"><img src="http://i.imgur.com/mnGYlw3.png"></p>
+>>>>>>> origin/master
