@@ -9,12 +9,12 @@
      電影模擬劃位系統 
 
 
-### 一、系統介紹 ###
+### 一、系統介紹 (0124087 蘇垣愷)
 設定相關系統，讓使用者在不同的區域可以選擇裡自己位置最近的影廳，然後依照使用者個人喜好，查詢自己想看的電影時刻，該場電影的剩餘位置，方便使用者選擇應該鎖定哪家影廳哪個場次以及哪裡有舒適的座位。
 <p>
 本系統僅提供查詢影廳的電影場次以及剩餘座位的資訊，並無付費及購票功能，但此系統能夠連結到他家的訂票系統，讓使用者能夠更便捷更快速的完成整個選位劃位購票流程。
 </p>
-### 二、利害關係人與目標表 ###
+### 二、利害關係人與目標表	(0124051 陳緯綸)
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
     <td><p>利害關係人（參與者）</p></td>
@@ -26,7 +26,7 @@
 </tr>
 </table>
 <br>
-### 三、事件與使用案例表 ###
+### 三、事件與使用案例表 (0124051 陳緯綸)
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
     <td><p>事件名稱</p></td>
@@ -52,10 +52,14 @@
     <td><p>5.使用者完成劃位規劃，將頁面導入至對應電影院售票系統</p></td>
     <td><p>5.完成作業</p>
 </tr>
+<tr>
+    <td><p>6.管理員進行電影資料編輯</p></td>
+    <td><p>6.管理後台</p>
+</tr>
 </table>
-### 四、使用案例圖 ###
+### 四、使用案例圖 (0124071 甘孟叡)
 <p align="center"><img src="http://i.imgur.com/En9QZ0C.png"></p>
-### 五、個別使用案例描述 ###
+### 五、個別使用案例描述 (0124051 陳緯綸)
 **基本介面作業**
 <p align="center"><img src="http://i.imgur.com/Zu1G1BV.png"></p>
 **以名稱查詢作業**
@@ -68,7 +72,7 @@
 <p align="center"><img src="http://i.imgur.com/2J8jLN7.png"></p>
 **管理後台**
 <p align="center"><img src="http://i.imgur.com/zCno1Jc.png"></p>
-### 六、個別使用案例活動圖 ###
+### 六、個別使用案例活動圖 (0124071 甘孟叡)
 **基本介面作業**
 <p align="center"><img src="http://i.imgur.com/fESYEEj.png"></p>
 **以名稱查詢作業**
@@ -81,7 +85,7 @@
 <p align="center"><img src="http://i.imgur.com/nUK3JkM.png"></p>
 **管理後台**
 <p align="center"><img src="http://i.imgur.com/XijNyTa.png"></p>
-### 七、名詞與概念類別列舉表 ###
+### 七、名詞與概念類別列舉表 (0124051 陳緯綸)
 **基本介面作業**
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
@@ -275,7 +279,7 @@
 	  <td><p>否</p></td>
 </tr>
 </table>
-### 八、使用案例的初步類別圖 ###
+### 八、使用案例的初步類別圖 (0124057 黃韋翔)
 **基本介面作業**
 <p align="center"><img src="http://i.imgur.com/36F3APH.png"></p>
 **以名稱查詢作業**
@@ -288,9 +292,9 @@
 <p align="center"><img src="http://i.imgur.com/3KvJhHh.png"></p>
 **管理後台**
 <p align="center"><img src="http://i.imgur.com/3KvJhHh.png"></p>
-### 九、系統的初步類別圖 ###
+### 九、系統的初步類別圖 (0124053 謝帛璋)
 <p align="center"><img src="http://i.imgur.com/Da35eqS.jpg"></p>
-### 十、使用案例主要成功情節之英文名稱事件對應 ###
+### 十、使用案例主要成功情節之英文名稱事件對應 (0124051 陳緯綸)
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
 	<td><p>使用案例：基本介面作業</p></td>
@@ -405,7 +409,7 @@
 	</p><br>
 </tr>
 </table>
-### 十一、每個名稱事件之合約 ###
+### 十一、每個名稱事件之合約 (0124051 陳緯綸)
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
 	<td><p>LoadUI()</p></td>
@@ -468,7 +472,7 @@
 	</p></tr>
 </tr>
 </table>
-### 十二、使用案例之系統循序圖 ###
+### 十二、使用案例之系統循序圖 (0124057 黃韋翔/0124071 甘孟叡)
 **基本介面作業**
 <p align="center"><img src="http://i.imgur.com/FoVnw8t.png"></p>
 **以名稱查詢作業**
@@ -481,7 +485,7 @@
 <p align="center"><img src="http://i.imgur.com/Zks6SLQ.png"></p>
 **管理後台**
 <p align="center"><img src="http://i.imgur.com/SK4xtg2.png"></p>
-### 十三、使用案例之系統強韌圖 ###
+### 十三、使用案例之系統強韌圖 (0124071 甘孟叡)
 **基本介面作業**
 <p align="center"><img src="http://i.imgur.com/UK4zyeZ.png"></p>
 **以名稱查詢作業**
@@ -494,5 +498,10 @@
 <p align="center"><img src="http://i.imgur.com/Jyrd6jl.png"></p>
 **管理後台**
 <p align="center"><img src="http://i.imgur.com/HKTRWZq.png"></p>
-### 十四、強韌圖 ###
+### 十四、強韌圖 (0124071 甘孟叡)
 <p align="center"><img src="http://i.imgur.com/bqI8tP8.png"></p>
+### 十五、E-R Model (0124051 陳緯綸)
+<p align="center"><img src="http://i.imgur.com/gyeP8sO.png"></p>
+<p align="center"><img src="http://i.imgur.com/GXGaWv2.pnggyeP8sO.png"></p>
+### 十六、循序圖 (0124057 黃韋翔)
+<p align="center"><img src="http://i.imgur.com/6klC4Sv.png"></p>
