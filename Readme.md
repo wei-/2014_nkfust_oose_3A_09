@@ -512,4 +512,6 @@
 <p align="center"><img src="http://i.imgur.com/pDjj7NT.png"></p>
 ###E-R MODEL###
 <p align="center"><img src="http://i.imgur.com/mnGYlw3.png"></p>
->>>>>>> origin/master
+<p align="center"><img src="http://i.imgur.com/GXGaWv2.png"></p>
+### 十六、循序圖 ###
+<p align="center"><img src="http://i.imgur.com/6klC4Sv.png"></p>
