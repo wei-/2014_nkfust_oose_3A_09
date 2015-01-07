@@ -508,8 +508,10 @@
 <p align="center"><img src="http://i.imgur.com/6klC4Sv.png"></p>
 =======
 <p align="center"><img src="http://i.imgur.com/v0vLwxC.png"></p>
-### 十四、強韌圖 ###
+### 十四、強韌圖 (0124071)###
 <p align="center"><img src="http://i.imgur.com/pDjj7NT.png"></p>
-###E-R MODEL###
+###E-R MODEL(0124051)
 <p align="center"><img src="http://i.imgur.com/mnGYlw3.png"></p>
->>>>>>> origin/master
+<p align="center"><img src="http://i.imgur.com/GXGaWv2.png"></p>
+### 十六、循序圖(0124057) ###
+<p align="center"><img src="http://i.imgur.com/6klC4Sv.png"></p>
